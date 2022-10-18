@@ -1,37 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Büşra Nur Darendeli Kiraz
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Project Assisstant
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Yıldız Technical University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed machine learning, drug discovery and antibiotic resistance.
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Drug Discovery
+  - Antibiotic Resistance
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Bioengineering
+      institution: Yıldız Technical University
+      year: 
+    - course: MSc in Bioengineering
+      institution: Yıldız Technical University
+      year: 2021
+    - course: BSc in Bioengineering
+      institution: Yıldız Technical University
+      year: 2018
+    - course: BSc Double Major in Molecular Biology and Genetics
+      institution: Yıldız Technical University
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,16 +43,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:nur.darendeli@std.yildiz.edu.tr'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: [https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ](https://scholar.google.com.tr/citations?hl=tr&user=FUHWAbwAAAAJ)
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/bndarendeli
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,7 +70,4 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Büşra Nur Darendeli Kiraz is a PhD Student at the Yıldız Technical University. Her research role in this group is that discovery of new antibiotic molecules which overcome the antibiotic resistance. 
