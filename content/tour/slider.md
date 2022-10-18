@@ -22,7 +22,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: open.jpg
+        media: o1.jpg
     - title: Check Out Our Research
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
