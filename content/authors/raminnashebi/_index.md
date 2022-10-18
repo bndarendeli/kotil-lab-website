@@ -1,40 +1,36 @@
 ---
 # Display name
-title: Seyfullah Enes Kotil
+title: Ramin Nashebi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Assisstant Professor
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Bahçeşehir University
+  - name: Yıldız Technical University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-  - Artificial Intelligence
-  - Drug Discovery
-  - Antibiotic Resistance
+  - 
 
 education:
   courses:
-    - course: PhD in Bioengineering
+    - course: PhD in Mathematics
       institution: Yıldız Technical University
       year: 
-    - course: MSc in Bioengineering
+    - course: MSc in Mathematics
       institution: Yıldız Technical University
-      year: 2021
-    - course: BSc in Bioengineering
+      year: 
+    - course: BSc in Mathematics
       institution: Yıldız Technical University
-      year: 2018
-    - course: BSc Double Major in Molecular Biology and Genetics
-      institution: Yıldız Technical University
-      year: 2021
+      year: 
+    
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,16 +39,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:nur.darendeli@std.yildiz.edu.tr'
+    link: 'mailto:'
   - icon: twitter
     icon_pack: fab
     link: 
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com.tr/citations?hl=tr&user=FUHWAbwAAAAJ
+    link: 
   - icon: github
     icon_pack: fab
-    link: https://github.com/bndarendeli
+    link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigator
+  - Researchers
 ---
 
 
