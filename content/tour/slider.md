@@ -22,15 +22,15 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: coders.jpg
-    - title: Lunch & Learn ☕️
+        media: open.jpg
+    - title: Check Out Our Research
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
+        media: open2.jpg
     - title: World-Class Semiconductor Lab
       content: 'Just opened last month!'
       align: right
