@@ -67,4 +67,4 @@ user_groups:
   - Researchers
 ---
 
-
+Esra Bedir is a MSc student at the Yıldız Technical Universty. Her research role in this group is that discovery of new probiotic bacteria strains and produce new probiotic products.
