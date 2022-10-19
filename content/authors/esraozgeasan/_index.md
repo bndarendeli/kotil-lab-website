@@ -64,4 +64,4 @@ user_groups:
   - Researchers
 ---
 
-Esra Ozge ASAN is a MSc student at Yildiz Technical University. Her research role in this group is mathematical modeling for epidemiology. 
+Esra Ozge ASAN is a MSc student at Yildiz Technical University. Her research role in this group is mathematical modeling in epidemiology. 
