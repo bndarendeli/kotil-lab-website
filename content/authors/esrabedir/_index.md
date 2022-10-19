@@ -25,7 +25,7 @@ interests:
 
 education:
   courses:
-    - course: MSc in Molecular Biology and Genetics
+    - course: MSc in Biotechnology
       institution: Yıldız Technical University
       year: 
     - course: BSc in Molecular Biology and Genetics
