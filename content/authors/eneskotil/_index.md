@@ -3,7 +3,7 @@
 title: Seyfullah Enes Kotil
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Assisstant Professor
@@ -17,24 +17,11 @@ organizations:
 bio: 
 
 interests:
-  - Artificial Intelligence
-  - Drug Discovery
-  - Antibiotic Resistance
+  
 
 education:
   courses:
-    - course: PhD in Bioengineering
-      institution: Yıldız Technical University
-      year: 
-    - course: MSc in Bioengineering
-      institution: Yıldız Technical University
-      year: 2021
-    - course: BSc in Bioengineering
-      institution: Yıldız Technical University
-      year: 2018
-    - course: BSc Double Major in Molecular Biology and Genetics
-      institution: Yıldız Technical University
-      year: 2021
+    - 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
