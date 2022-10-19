@@ -1,8 +1,8 @@
 ---
-title: 'An example conference pape'
+title: 'Development of Evolutionary Escape Model to Identify Drugs that Delay Resistance'
 authors:
+  - Busra Nur Darendeli Kiraz
   - admin
-  - Robert Ford
 date: '2013-07-01T00:00:00Z'
 doi: ''
 
