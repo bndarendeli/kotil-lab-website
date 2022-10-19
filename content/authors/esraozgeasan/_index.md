@@ -17,7 +17,8 @@ organizations:
 bio: 
 
 interests:
-  -
+  - Mathematical Modelling
+  - Epidemiology
 
 education:
   courses:
@@ -25,7 +26,7 @@ education:
       institution: Yıldız Technical University
       year: 
     - course: BSc in Mathematics
-      institution: Yıldız Technical University
+      institution: Istanbul University
       year: 2020
 
 # Social/Academic Networking
@@ -35,7 +36,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: 'mailto:esraozgeasan@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: 
@@ -44,7 +45,7 @@ social:
     link: 
   - icon: github
     icon_pack: fab
-    link: 
+    link: https://github.com/eoasan
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,4 +64,4 @@ user_groups:
   - Researchers
 ---
 
-
+Esra Ozge ASAN is a MSc student at Yildiz Technical University. Her research role in this group is mathematical modeling for epidemiology. 
