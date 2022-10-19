@@ -1,7 +1,7 @@
 ---
 title: 'Development of Evolutionary Escape Model to Identify Drugs that Delay Resistance'
 authors:
-  - Büşra Nur Darendeli Kiraz
+  - Busra Nur Darendeli Kiraz
   - admin
 date: '2022-14-08'
 doi: ''
