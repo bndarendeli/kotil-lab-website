@@ -3,7 +3,7 @@
 title: Seyfullah Enes Kotil
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Assisstant Professor
