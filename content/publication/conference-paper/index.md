@@ -22,16 +22,17 @@ publication_short:
 abstract: Antimicrobial resistance is an inevitable situation. Many approaches can be used to defeat resistance. One of these approaches is that considers the heterogeneity of the bacterial population. Resistance can be overcome if bacteria that show resistance in the bacterial population can be predicted before drug use. Here, we provided a technique with an applied experimental and computational approach to predict bacterial evolution against the drugs. For this purpose, we produced the dataset that includes known compounds enriched with twenty-one novel compounds that we identified for this work. We applied two methods to measure bacterial resistance against these drugs. In our first method, we have measured the concentration that kills the single-step mutant, known as a mutant prevention concentration (MPC). Our second method involved evolution experiments performed for five days with serial passages at pre-determined drug concentrations. The change in growth rate during the experiments was taken as the output. The data obtained from these two methods we developed our predictive model, the evolutoinary escape model (ESM). According to the model's prediction, drugs that develop low resistance were tested in vitro. Among the molecules tested in vitro, it was determined that KL-4 had superior properties in delaying the development of resistance. Estimating drug escape routes maybe a promising method to delay resistance. Overall, our approach can foresee antibiotic resistance and contribute to drug design that delays resistance.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:
 
 tags:
-  - Source Themes
+  - Antibiotic Resistance
+  - Drug Discovery
 featured: true
 
 links:
   - name: Custom Link
-    url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+    url: https://biophysics.cld.bz/Biophysical-Society-Thematic-Meeting-Stockholm-2022
+url_pdf: '#'
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
