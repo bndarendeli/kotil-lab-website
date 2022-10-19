@@ -3,11 +3,11 @@ title: 'Development of Evolutionary Escape Model to Identify Drugs that Delay Re
 authors:
   - Busra Nur Darendeli Kiraz
   - admin
-date: '2022-18-08T00:00:00Z'
+date: '2022-18-08T00:00:00.000Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-18-08T00:00:00Z'
+publishDate: '2022-18-08T00:00:00.000Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
