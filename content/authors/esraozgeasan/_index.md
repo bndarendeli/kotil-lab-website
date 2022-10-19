@@ -26,7 +26,7 @@ education:
       year: 
     - course: BSc in Mathematics
       institution: Yıldız Technical University
-      year: 
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
