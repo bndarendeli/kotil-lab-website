@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Seyfullah Enes Kotil
+title: Sümeyye Yılmaz
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Assisstant Professor
+role: MSc Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Bahçeşehir University
+  - name: Yıldız Technical University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,22 +18,16 @@ bio:
 
 interests:
   - Artificial Intelligence
-  - Drug Discovery
-  - Antibiotic Resistance
+  - Drug Resistance
+  - Mathematical Modelling
 
 education:
   courses:
-    - course: PhD in Bioengineering
+    - course: MSc in Mathematics
       institution: Yıldız Technical University
       year: 
-    - course: MSc in Bioengineering
-      institution: Yıldız Technical University
-      year: 2021
-    - course: BSc in Bioengineering
-      institution: Yıldız Technical University
-      year: 2018
-    - course: BSc Double Major in Molecular Biology and Genetics
-      institution: Yıldız Technical University
+    - course: BSc in Mathematics
+      institution: Istanbul University
       year: 2021
 
 # Social/Academic Networking
@@ -43,16 +37,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:nur.darendeli@std.yildiz.edu.tr'
+    link: 'mailto:sumeyyeeyilmaaz@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: 
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com.tr/citations?hl=tr&user=FUHWAbwAAAAJ
+    link:
   - icon: github
     icon_pack: fab
-    link: https://github.com/bndarendeli
+    link: https://github.com/sumeyyeeyilmaz
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,7 +62,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigator
+  - Researchers
 ---
 
-
+Sumeyye Yilmaz is a MSc Student at the Yıldız Technical University. Her research role in this group is to research the dynamics of HIV drug resistance with machine learning. 
