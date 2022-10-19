@@ -1,40 +1,32 @@
 ---
 # Display name
-title: Seyfullah Enes Kotil
+title: Esra Özge Asan
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Assisstant Professor
+role: MSc Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Bahçeşehir University
+  - name: Yıldız Technical University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-  - Artificial Intelligence
-  - Drug Discovery
-  - Antibiotic Resistance
+  -
 
 education:
   courses:
-    - course: PhD in Bioengineering
+    - course: MSc in Mathematics
       institution: Yıldız Technical University
       year: 
-    - course: MSc in Bioengineering
+    - course: BSc in Mathematics
       institution: Yıldız Technical University
-      year: 2021
-    - course: BSc in Bioengineering
-      institution: Yıldız Technical University
-      year: 2018
-    - course: BSc Double Major in Molecular Biology and Genetics
-      institution: Yıldız Technical University
-      year: 2021
+      year: 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -68,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigator
+  - Reseacrhers
 ---
 
 
