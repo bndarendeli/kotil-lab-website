@@ -17,7 +17,8 @@ organizations:
 bio: 
 
 interests:
-  - 
+  - Molecular Biology
+  - Genetics
 
 education:
   courses:
@@ -32,7 +33,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: 'mailto:cerensuren1@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: 
@@ -60,4 +61,4 @@ user_groups:
   - Grad Students
 ---
 
-
+Ceren Süren is a BSc student of Molecular Biology and Genetics department at Bahcesehir University. Tübitak 2247-C Intern researcher in the project of “Multiscale modelling of infectious diseases; population wide models to control infectious diseases to constructing novel antisense and small molecule- based therapy against drug resistance”
