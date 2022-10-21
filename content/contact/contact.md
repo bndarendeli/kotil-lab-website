@@ -15,23 +15,22 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email:
+  phone: 
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    street: Batman
+    city: Istanbul
+    postcode: '34734'
+    country: Türkiye
+    country_code: TR
+  coordinates: 
+    latitude: '40.98964588651475'
+    longitude: '29.079239417434117'
+  directions: Sahrayı Cedit, Batman Sk. No:66, 34734 Kadıköy/İstanbul
   office_hours:
-    - 'Monday 10:00 to 13:00'
+    - 'Monday 08:00 to 17:00'
     - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+ 
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
