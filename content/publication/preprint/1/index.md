@@ -37,7 +37,7 @@ links:
   - name: Custom Link
     url: https://www.medrxiv.org/content/10.1101/2020.10.20.20212522v1
 url_pdf: https://www.medrxiv.org/content/10.1101/2020.10.20.20212522v1.full.pdf
-url_supplementary: https://www.medrxiv.org/content/10.1101/2020.10.20.20212522v1.supplementary-material
+url_dataset: https://www.medrxiv.org/content/10.1101/2020.10.20.20212522v1.supplementary-material
 
 
 # Featured image
