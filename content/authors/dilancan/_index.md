@@ -17,7 +17,10 @@ organizations:
 bio: 
 
 interests:
-  - 
+  - Drug Resistance
+  - Adaptive Laboratory Experiments
+  - CRISPR Interference
+  - Antisense Molecules
 
 education:
   courses:
@@ -36,7 +39,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: 'mailto:dilan.can@std.yildiz.edu.tr'
   - icon: twitter
     icon_pack: fab
     link: 
@@ -64,4 +67,4 @@ user_groups:
   - Researchers
 ---
 
-
+Dilan Can is a MSc student at the Yıldız Technical University. Her research role in this group is to work with CRISPR interference tools and antisense molecules to design durable therapies for antibiotic resistance.
