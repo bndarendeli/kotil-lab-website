@@ -33,7 +33,8 @@ featured: true
 links:
   - name: Custom Link
     url: https://biophysics.cld.bz/Biophysical-Society-Thematic-Meeting-Stockholm-2022
-url_pdf: STOCKHOLM2.pdf
+url_pdf: https://biophysics.cld.bz/Biophysical-Society-Thematic-Meeting-Stockholm-2022
+url_poster: featured.jpg
 
 
 # Featured image
