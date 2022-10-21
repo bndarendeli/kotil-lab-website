@@ -17,7 +17,9 @@ organizations:
 bio: 
 
 interests:
-  - 
+  - Applied Mathematics
+  - Mathematical Modelling
+  - Epidemiology
 
 education:
   courses:
@@ -26,10 +28,10 @@ education:
       year: 
     - course: MSc in Mathematics
       institution: Yıldız Technical University
-      year: 
+      year: 2021
     - course: BSc in Mathematics
       institution: Yıldız Technical University
-      year: 
+      year: 2019
     
 
 # Social/Academic Networking
@@ -39,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:'
+    link: 'mailto:raminnashebi@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: 
