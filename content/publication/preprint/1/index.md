@@ -23,7 +23,7 @@ publication_types: ['3']
 publication: ''
 publication_short: ''
 
-abstract: 
+abstract: Mathematical models not only forecast the possible future but also is used to find hidden parameters of the COVID-19 pandemic. Numerical estimates can inform us of both goals. Still, the interdependencies of parameters stay obscure. Many numerical solutions have been proposed so far; however, the analytical relationship between the outbreak growth, decay and equilibrium are much less studied. In this study, we have employed both an equivalent agent-based model and a Susceptible-Exposed-Infected-Recovered (SEIR)-like model to prove that the growth rate can be determined analytically in terms of other model parameters, including contact tracing rate. We identify the most sensitive parameters as undocumented transmission rate and documentation ratio. Unfortunately, these are the parameters we have the least knowledge. We derived an identity that predicts the effectiveness of contact tracing in a country from observable parameters. We underline an unavoidable dilemma: that even in the case of high contact tracing, we cannot bring the outbreak to stalemate without applying substantial quarantine; however, some countries are benefiting from contact tracing. Besides, we have shown that the seemingly same parameters of the SEIR models and agent-based models are not equivalent. We propose a correction to bridge both models.
 
 # Summary. An optional shortened abstract.
 summary: 
