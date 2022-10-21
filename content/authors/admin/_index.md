@@ -17,24 +17,23 @@ organizations:
 bio: 
 
 interests:
-  - Artificial Intelligence
-  - Drug Discovery
-  - Antibiotic Resistance
+  - 
 
 education:
   courses:
-    - course: PhD in Bioengineering
-      institution: Yıldız Technical University
-      year: 
-    - course: MSc in Bioengineering
-      institution: Yıldız Technical University
-      year: 2021
-    - course: BSc in Bioengineering
-      institution: Yıldız Technical University
-      year: 2018
-    - course: BSc Double Major in Molecular Biology and Genetics
-      institution: Yıldız Technical University
-      year: 2021
+    - course: Posdoctoral Associate 
+      institution: University of Wisconsin-Madison
+      year: 2019
+    - course: PhD in Computational Biology and Biophysics
+      institution: University of Illinois Urbana-Champaign
+      year: 2016
+    - course: MSc in Applied Mathematics
+      institution: Rensselaer Polytechnic Institute
+      year: 2010
+    - course: BSc in Biology
+      institution: Rensselaer Polytechnic Institute
+      year: 2009
+   
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,16 +42,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:nur.darendeli@std.yildiz.edu.tr'
+    link: 'mailto:enesseyfullah.kotil@med.bau.edu.tr'
   - icon: twitter
     icon_pack: fab
     link: 
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com.tr/citations?hl=tr&user=FUHWAbwAAAAJ
+    link: 
   - icon: github
     icon_pack: fab
-    link: https://github.com/bndarendeli
+    link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
