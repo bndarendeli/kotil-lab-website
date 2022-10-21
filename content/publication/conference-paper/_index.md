@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Conference-Paper
 
 # Listing view
 view: citation
