@@ -17,12 +17,12 @@ summary: The traditional Mathematical Biology workshop we held with the Sarı La
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-03-03T10:00:00Z'
-date_end: '2022-03-03T17:00:00Z'
+date: '2022-11-03T10:00:00Z'
+date_end: '2022-11-03T17:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2022-03-03T00:00:00Z'
+publishDate: '2022-11-03T00:00:00Z'
 
 authors: []
 tags: []
