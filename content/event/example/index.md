@@ -28,7 +28,7 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image: 'featured.pdf'
+image: 
 
 url_code: ''
 url_pdf: '2FWMB Abstract Book.pdf'
