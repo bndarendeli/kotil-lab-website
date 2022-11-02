@@ -53,4 +53,4 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-You can review the abstract book.
+
